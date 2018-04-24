@@ -23,7 +23,7 @@ Gittex currently interfaces with EtherDelta's original smart contract (described
 
 # Contribute
 We welcome contributions from the community. You can contribute by improving the code, documentation, or by donating. 
-Gittex currently interfaces with EtherDelta's original smart contract which allows Gittex users to trade utilizing EtherDelta's volume. However, this means that the trading fees still go to EtherDelta and Gittex development costs come entirely out of our pockets. If you are interested in the Gittex project and would like to contribute to its future, please consider donating to the following Ethereum address: <a href="https://etherscan.io/address/0xFb9cd4E61a5FCa59CD134c960c8eF028A1db4Bd2">0xFb9cd4E61a5FCa59CD134c960c8eF028A1db4Bd2</a>
+Gittex currently interfaces with EtherDelta's original smart contract which allows Gittex users to trade utilizing EtherDelta's volume. However, this means that the trading fees still go to EtherDelta and Gittex development costs come entirely out of our pockets. If you are interested in the Gittex project and would like to contribute to its future, please consider donating to the following Ethereum address: <a href="https://etherscan.io/address/0xFb9cd4E61a5FCa59CD134c960c8eF028A1db4Bd2">0xFb9cd4E61a5FCa59CD134c960c8eF028A1db4Bd2</a>.
  
 As this is a project by the community, for the community, transactions to and from the donations address will be public and can be viewed on the blockchain. We will also keep a public ledger of how the donations are distributed. That way, donors can see exactly how their donations are helping!
 
