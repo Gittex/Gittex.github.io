@@ -1,7 +1,7 @@
 # <img src="https://gittex.github.io/images/title.png"/>
 Decentralized Ethereum Token Exchange backed in GitHub
 
-[![Follow us on Twitter](https://img.shields.io/twitter/follow/GittexOfficial.svg?style=social&label=Followg)](https://twitter.com/GittexOfficial)
+[![Follow us on Twitter](https://img.shields.io/twitter/follow/GittexOfficial.svg?style=social&label=Follow)](https://twitter.com/GittexOfficial)
 [![Chat on Discord](https://img.shields.io/badge/chat-on%20discord-7289da.svg)](https://discord.gg/a8K8n)
 [![Join us on Reddit](https://img.shields.io/badge/reddit-Gittex-red.svg)](https://www.reddit.com/r/Gittex)
 
