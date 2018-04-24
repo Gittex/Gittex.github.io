@@ -2,7 +2,7 @@
 Decentralized Ethereum Token Exchange backed in GitHub
 
 [![Follow us on Twitter](https://img.shields.io/twitter/follow/GittexOfficial.svg?style=social&label=Follow)](https://twitter.com/GittexOfficial)
-[![Chat on Discord](https://img.shields.io/discord/436298947514859530.svg)](https://discord.gg/fJFyjHv)
+[![Chat on Discord](https://img.shields.io/discord/436298947968106496.svg)](https://discord.gg/fJFyjHv)
 [![Join us on Reddit](https://img.shields.io/badge/reddit-Gittex-red.svg)](https://www.reddit.com/r/Gittex)
 
 <a href="https://plasnerd.github.io/PEHTML/" target="blank"><img src="https://img.shields.io/badge/built%20with-PEHTML%20(v2)-295596.svg"></a>
